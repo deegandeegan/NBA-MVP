@@ -6,3 +6,11 @@ It's important to note that basketball reference changed the way the list the NB
 https://www.basketball-reference.com/leagues/NBA_2019_standings.html
 
 The **all.csv** has the seeds though!!
+
+
+
+
+
+
+### Source Document
+As it is formatted in a word document in order to access it you will need to click into it and then hit the "download" button. (Trust me it's worth it)
